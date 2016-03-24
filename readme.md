@@ -3,8 +3,17 @@ Anki: Cloze Deletion Single Card
 
 A very simple Anki plugin that allows you to add as many cloze deletions to a card as you want, always showing it up in a single card. In other words, whenever you add a cloze deletion in a card, you always will get a tag using "c1". For example: 
 
-    In {{c1:1957}} the {{c1::Soviet Union}} launched the world's first artificial satellite, the {{c1::Sputnik 1}}.
+**1) Adding a new card with cloze deletions:**
+![Adding a new card with cloze deletions.](img/1.png)
 
+**2) Answering the question:**
+![Answering the question.](img/2.png)
+
+**3) Reviewing the question:**
+![Reviewing the question.](img/3.png)
+
+How to Install
+----
 **Simple (and recommended) installation:**
 
 1. Open Anki, go to "Tools -> Add-ons -> Browse & Install" and paste this code: "1392166854".
